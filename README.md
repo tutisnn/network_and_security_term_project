@@ -1,6 +1,7 @@
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/363187d2-f38d-4a5d-a6ec-561833392358" />
+
 ```markdown
 # Network and Security Term Project
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/77475ec2-d431-4346-beac-a8a4fa216f7c" />
 
 ## Certificate Authority & Secure Key Exchange System
 
